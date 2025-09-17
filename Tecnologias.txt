@@ -1,5 +1,9 @@
-MySQL para las bases de datos.
+Tecnologías empleadas en el desarrollo del sistema web:
 
-PHP para el back 
+MySQL: Utilizado para la gestión y almacenamiento de las bases de datos, garantizando la integridad y eficiencia en la manipulación de la información.
 
-HTML, CSS, JavaScript + Bootstrap u otro framework para la parte de estructura y diseño del sistema web.
+PHP: Empleado en el desarrollo del backend, permitiendo la interacción con la base de datos y la lógica del servidor.
+
+HTML, CSS y JavaScript: Implementados para la estructura, presentación y funcionalidad del sistema web, asegurando una experiencia de usuario interactiva y dinámica.
+
+Bootstrap (u otro framework de diseño): Aplicado para el diseño responsivo y consistente del sistema, optimizando la interfaz para distintos dispositivos y tamaños de pantalla.
