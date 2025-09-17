@@ -1,0 +1,5 @@
+MySQL para las bases de datos.
+
+PHP para el back 
+
+HTML, CSS, JavaScript + Bootstrap u otro framework para la parte de estructura y diseño del sistema web.
