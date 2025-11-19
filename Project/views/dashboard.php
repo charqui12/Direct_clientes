@@ -1,7 +1,7 @@
 <?php
 session_start();
 
-// Si no hay sesión activa, redirige al login
+// Si no hay sesión activa, redirige al login dashborad 
 if (!isset($_SESSION['admin_id'])) {
     header("Location: index.php");
     exit;
