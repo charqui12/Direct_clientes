@@ -51,7 +51,8 @@
 
    
     <div class="hero text-center">
-        
+       
+      
         <h1 class="display-4 fw-bold">
            <i class="fa-solid fa-house me-2"></i>
         <img src="img/logo.jpg" class="card-img-top" alt="logo" style="width:80px; height:80px; border-radius:50%; object-fit:cover; vertical-align:middle;">
@@ -76,9 +77,9 @@
             <!-- CARD 1 -->
             <div class="col-md-4 mb-4 negocio">
                 <div class="card shadow-sm">
-                    <img src="img/negocio0.webp" class="card-img-top" alt="Comida">
+                    <img src="img/negocioburritos.jpg" class="card-img-top" alt="Comida">
                     <div class="card-body">
-                        <h5 class="card-title">El Entronque</h5>
+                        <h5 class="card-title">Burritos Mix</h5>
                         <p class="card-text">
                             <strong>Especialidad:</strong> Comida casera y antojitos<br>
                             <strong>Horario:</strong> 9:00 AM - 8:00 PM<br>
@@ -100,7 +101,7 @@
             <!-- CARD 2 -->
             <div class="col-md-4 mb-4 negocio">
                 <div class="card shadow-sm">
-                    <img src="img/negocio1.webp" class="card-img-top" alt="Comida">
+                    <img src="img/negocioEntronque.jpg" class="card-img-top" alt="Comida">
                     <div class="card-body">
                         <h5 class="card-title">El Entronque Cutzeo</h5>
                         <p class="card-text">
@@ -124,7 +125,7 @@
             <!-- CARD 3 -->
             <div class="col-md-4 mb-4 negocio">
                 <div class="card shadow-sm">
-                    <img src="img/negocio2.webp" class="card-img-top" alt="Comida">
+                    <img src="img/negocioPatrona.jpg" class="card-img-top" alt="Comida">
                     <div class="card-body">
                         <h5 class="card-title">La Patrona</h5>
                         <p class="card-text">
